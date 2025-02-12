@@ -106,4 +106,3 @@ while True:
 
 # Release the webcam and close windows
 video_capture.release()
-cv2.destroyAllWindows()
